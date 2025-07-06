@@ -1,7 +1,7 @@
 # SQL_spotify
 ## 🎵 Proyecto de Análisis de Datos Musicales con SQL y Visualizaciones en Python
 
-Este proyecto consiste en un análisis exploratorio de una base de datos relacional sobre canciones, artistas, géneros y características acústicas de Spotify, utilizando consultas SQL para extraer insights relevantes. Complementa el análisis con visualizaciones en Python para interpretar y comunicar los resultados. Es uno de mis primeros proyectos prácticos con SQL enfocado en datos musicales, con el objetivo de fortalecer mis habilidades en bases de datos, análisis de datos y visualización.
+Este proyecto consiste en un análisis exploratorio de una base de datos relacional sobre canciones, artistas, géneros y características acústicas de Spotify, utilizando consultas SQL para extraer insights relevantes. Es uno de mis primeros proyectos prácticos con SQL enfocado en datos musicales, con el objetivo de fortalecer mis habilidades en bases de datos, análisis de datos y visualización.
 
 ## 🧹 Limpieza y preparación de datos
 El proyecto parte de un único archivo CSV original que contiene toda la información combinada de canciones, artistas, géneros y características acústicas.
@@ -29,15 +29,12 @@ Aplicar consultas SQL avanzadas con JOINs, GROUP BY, HAVING y funciones agregada
 
 Realizar análisis estadísticos y comparativos de atributos musicales.
 
-Visualizar los datos para facilitar la interpretación y la toma de decisiones usando Python (pandas, matplotlib, seaborn).
-
 ## 🛠️ Tecnologías utilizadas
 
 SQL para manipulación y consulta de datos.
 
 DBeaver como entorno para gestión y consulta de la base de datos.
 
-Python con pandas, matplotlib y seaborn para análisis y visualización.
 
 ## 🧠 Consultas destacadas
 
@@ -73,14 +70,5 @@ Python con pandas, matplotlib y seaborn para análisis y visualización.
 
     │       ├── spotify_limpio.csv
 
-├── visualizations/
-
-    │   ├── spotify_analysis.ipynb
-
-    │   └── charts/
-
-        │       ├── danceability_vs_genre.png
-
-        │       └── top_artists_barplot.png
 
 ├── README.md
