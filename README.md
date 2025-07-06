@@ -1,5 +1,5 @@
 # SQL_spotify
-🎵 Proyecto de Análisis de Datos Musicales con SQL y Visualizaciones en Python
+## 🎵 Proyecto de Análisis de Datos Musicales con SQL y Visualizaciones en Python
 
 Este proyecto consiste en un análisis exploratorio de una base de datos relacional sobre canciones, artistas, géneros y características acústicas de Spotify, utilizando consultas SQL para extraer insights relevantes. Complementa el análisis con visualizaciones en Python para interpretar y comunicar los resultados. Es uno de mis primeros proyectos prácticos con SQL enfocado en datos musicales, con el objetivo de fortalecer mis habilidades en bases de datos, análisis de datos y visualización.
 
@@ -66,15 +66,7 @@ Python con pandas, matplotlib y seaborn para análisis y visualización.
 
 ├── data/
 
-│   ├── tracks.csv
-
-│   ├── artists.csv
-
-│   ├── genres.csv
-
-│   ├── track_genre.csv
-
-│   └── audio_features.csv
+│   ├── spotify_limpio.csv
 
 ├── visualizations/
 │   ├── spotify_analysis.ipynb
