@@ -4,7 +4,12 @@
 Este proyecto consiste en un análisis exploratorio de una base de datos relacional sobre canciones, artistas, géneros y características acústicas de Spotify, utilizando consultas SQL para extraer insights relevantes. Complementa el análisis con visualizaciones en Python para interpretar y comunicar los resultados. Es uno de mis primeros proyectos prácticos con SQL enfocado en datos musicales, con el objetivo de fortalecer mis habilidades en bases de datos, análisis de datos y visualización.
 
 ## 🧹 Limpieza y preparación de datos
-Partí de un único archivo CSV completo que contenía toda la información combinada. Realicé un proceso de limpieza y normalización para dividirlo en cinco archivos CSV separados correspondientes a las tablas mencionadas (tracks, artists, genres, track_genre y audio_features). Esto facilitó la importación en la base de datos relacional y permitió un análisis más estructurado y eficiente mediante SQL.
+El proyecto parte de un único archivo CSV original que contiene toda la información combinada de canciones, artistas, géneros y características acústicas.
+
+Localmente, realicé un proceso de limpieza y normalización para dividir este CSV completo en cinco conjuntos de datos correspondientes a las tablas principales (tracks, artists, genres, track_genre y audio_features), lo que facilitó la importación y el análisis en la base de datos relacional mediante SQL.
+
+Por limitaciones de espacio y para mantener la coherencia, en el repositorio solo se incluye el archivo CSV original completo, sin los CSVs divididos, que fueron generados localmente para el análisis.
+
 
 ## 📁 Estructura de la base de datos
 | Tabla            | Descripción                                                                  |
