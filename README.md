@@ -61,22 +61,26 @@ Python con pandas, matplotlib y seaborn para análisis y visualización.
 
 ├── queries/
 
-│   ├── consultas_basicas.sql
+│       ├── consultas_basicas.sql
 
-│   ├── consultas_intermedias.sql
+│       ├── consultas_intermedias.sql
 
-│   └── consultas_avanzadas.sql
+│       └── consultas_avanzadas.sql
 
-│   └── tablas_y_datos.sql
+│       └── tablas_y_datos.sql
 
 ├── data/
 
-│   ├── spotify_limpio.csv
+│       ├── spotify_limpio.csv
 
 ├── visualizations/
+
 │   ├── spotify_analysis.ipynb
+
 │   └── charts/
+
 │       ├── danceability_vs_genre.png
+
 │       └── top_artists_barplot.png
 
 ├── README.md
